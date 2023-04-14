@@ -1,7 +1,8 @@
 ## 💛 Olá, meu nome é Leonardo
-<img height=300 align="right" src="https://user-images.githubusercontent.com/65029974/231925570-e2fbd6a4-39ab-4fea-98e6-3bb8929adae6.png" />
+<img height=300 align="right" src="https://user-images.githubusercontent.com/65029974/232166314-7e3dcd07-18de-4a4e-bcd0-037845897ee3.png" />
 
 ### Descrição
+
 <section>
 <p align="justify">
   Sou desenvolvedor backend no <img height="12px" src="https://avatars.githubusercontent.com/u/64100714?s=200&v=4"/><a href="https://github.com/DIT-IFAL">DIT-IFAL</a>, Técnico em Informática e atualmente fazendo bacharelado em Sistemas de informação no Instituto Federal de Alagoas - <img height="14px" src="https://play-lh.googleusercontent.com/DxVKD8i1OlpLwBIt8LtI5zLZqp0afABhdWbHs0Sq0lOEacRmr5HGfZsoiJmDysrnXLCo=w240-h480-rw"/><a href="">IFAL</a> e desenvolvendo em outras stacks nas horas vagas.
