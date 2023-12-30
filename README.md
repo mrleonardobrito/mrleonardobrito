@@ -25,7 +25,7 @@
 
 
 <p align="left">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lbritogit@example.com&su=SUBJECT&body=BODY" alt="Gmail">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lbritogit@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=[LINK](lbritogit@gmail.com)" /></a>
 
   <a href="https://www.linkedin.com/in/leonardo-brito-381571217/" alt="Linkedin">
